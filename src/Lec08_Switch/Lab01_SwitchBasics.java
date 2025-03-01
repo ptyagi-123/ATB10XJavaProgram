@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Lab01_SwitchBasics {
     public static void main(String[] args) {
         // User - Enter int number from 1 to 7
-        // Which day it is it
+        // Which day it is
         // 1 -> mon, 4 -> thur, 7 -> sun, 8,9,10....-1 -> Invalid
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the day number(1 to 7)");
